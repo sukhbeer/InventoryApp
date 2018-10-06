@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Inventory App</string>
+    <string name="item_inventory">Item Inventory</string>
+    <string name="edit">Edit</string>
+    <string name="action_save">Save</string>
+    <string name="label_item">Items</string>
+    <string name="edit_product_name">Item Name</string>
+    <string name="edit_price">Item Price</string>
+    <string name="edit_quantity">Item Quantity</string>
+    <string name="edit_supplier_name">Supplier Name</string>
+    <string name="edit_supplier_contact">Supplier Contact</string>
+    <string name="the_items_table_contains">The items table contains</string>
+    <string name="items">items</string>
+    <string name="error_saving_book">Error with saving book</string>
+    <string name="items_saved">Book saved with row id:</string>
+    <string name="required_field">Required</string>
+    <string name="price_cannot_be_negative">Price cannot be negative</string>
+    <string name="quantity_cannot_be_negative">Quantity cannot be negative</string>
+</resources>
